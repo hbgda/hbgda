@@ -3,6 +3,7 @@
 # Notable Projects
 ## Marvel's Spider-Man Remastered
 I'm the lead developer of the [Spider-Man Multiplayer](https://discord.gg/pGpTqCkQMC) project, a long-term project built from scratch to re-implement cut multiplayer functionality. This includes the development of entirely custom native UI integration and modding tools built from scratch.
+
 [![Discord Server Invite](https://invite.casperiv.dev?inviteCode=pGpTqCkQMC)](https://discord.gg/pGpTqCkQMC)
 
 ## Marvel's Spider-Man 2
